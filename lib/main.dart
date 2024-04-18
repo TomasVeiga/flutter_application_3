@@ -107,7 +107,7 @@ class _PrincipalViewState extends State<PrincipalView> {
                   prefixIcon: Icon(Icons.lock),
                 ),
                 //
-                // VALIDAÇÃO 2 (vermelho se não tiver escrito nada)
+                // VALIDAÇÃO 2 (vermelho se   não tiver escrito nada)
                 //
                 validator: (value){
                   if (value ==null){
